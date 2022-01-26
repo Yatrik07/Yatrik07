@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yatrik07
 - 👀 I’m interested in AI Data Science and Machine Learning
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learnnig
-
+- Linkedin - https://www.linkedin.com/in/yatrik-shah-7490481b6/
 
 
 <!---
