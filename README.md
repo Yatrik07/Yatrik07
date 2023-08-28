@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yatrik07
 - 👀 I’m interested in AI Data Science and Machine Learning
-- Completed Bsc. Artificial Intelligence and Machine Learning
-- Pursuing Msc. Artificial Intelligence and Machine Learning
+- Completed Honours Bsc. Artificial Intelligence and Machine Learning (4 yrs )
+- Currently woking as AI Engineer at Cloudoffis.
+- Woking on NLP, CV and core Deep Learning.
 - Linkedin - https://www.linkedin.com/in/yatrik-shah-7490481b6/
 
 
